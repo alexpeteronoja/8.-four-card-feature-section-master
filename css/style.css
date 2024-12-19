@@ -37,6 +37,8 @@ h3 {
     box-shadow: 3px 3px hsl(229, 6%, 66%);
     margin-top: 15px;
     padding: 12px;
+    background-color: #ffffffff;
+
 }
 
 .body-section :nth-child(1) {
